@@ -1,2 +1,2 @@
 # pocminio
-proof of concept using MinIO with spring boot Rest API
+proof of concept using [MinIO](https://min.io/) with spring boot Rest API
